@@ -1,4 +1,4 @@
-npm install jq <br />
+npm install jq 
 
 
 #Permisos de ejecución <br />
