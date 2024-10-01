@@ -8,7 +8,6 @@ chmod +x mint_coins.sh <br />
 Correr el script <br />
 ```
 ./mint_coins.sh
-
 ```
 Para listar los assets
 ```
