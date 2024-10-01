@@ -1,5 +1,4 @@
-npm install jq 
-
+sudo apt-get install jq
 
 #Permisos de ejecución <br />
 chmod +x mint_coins.sh <br />
