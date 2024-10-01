@@ -1,0 +1,38 @@
+[
+  {
+    "name": "ETH",
+    "issuer": "Ethereum Foundation",
+    "category": "smart contract",
+    "description": "Ethereum blockchain native token"
+  },
+  {
+    "name": "BNB",
+    "issuer": "Binance",
+    "category": "exchange",
+    "description": "Binance Chain native token"
+  },
+  {
+    "name": "SOL",
+    "issuer": "Solana Labs",
+    "category": "smart contract",
+    "description": "Solana blockchain native token"
+  },
+  {
+    "name": "ADA",
+    "issuer": "IOHK",
+    "category": "smart contract",
+    "description": "Cardano blockchain native token"
+  },
+  {
+    "name": "TRX",
+    "issuer": "Tron Foundation",
+    "category": "smart contract",
+    "description": "Tron blockchain native token"
+  },
+  {
+    "name": "DOT",
+    "issuer": "Web3 Foundation",
+    "category": "interoperability",
+    "description": "Polkadot blockchain native token"
+  }
+]
