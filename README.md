@@ -3,7 +3,7 @@ sudo apt-get install jq
 ```
 Permisos de ejecución 
 ```
-chmod +x mint_coins.sh <br />
+chmod +x mint_coins.sh 
 ```
 Correr el script 
 ```
