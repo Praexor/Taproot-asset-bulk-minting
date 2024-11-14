@@ -5,7 +5,7 @@ Permisos de ejecución
 ```
 chmod +x mint_coins.sh <br />
 ```
-Correr el script <br />
+Correr el script 
 ```
 ./mint_coins.sh
 ```
